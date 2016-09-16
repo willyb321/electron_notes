@@ -1,0 +1,14 @@
+{
+  "name": "ElectronNotes",
+  "version": "0.1.0",
+  "description": "ElectronNotes application built with Electron",
+  "author": {
+    "name": "Willyb321",
+    "email": ""
+  },
+  "license": "MIT",
+  "main": "javascripts/main/index.js",
+  "dependencies": {
+
+  }
+}
